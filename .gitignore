@@ -1,12 +1,5 @@
 # Environments
-# .env
-# .venv
-# env/
-# .venv/
-# venv/
-# ENV/
-# env.bak/
-# venv.bak/
-# ./env
-# /env
-# venv
+.venv
+.venv/
+venv/
+venv
