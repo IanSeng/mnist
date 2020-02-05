@@ -18,6 +18,7 @@ Placeholder
 
 ### Deactivating the virtual environment 
 Note: Make sure to deactivate the virtual environment 
+
 Run a terminal window to go into the root directory of this repository and run 
 ``` 
 source venv/bin/activate
