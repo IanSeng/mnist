@@ -1,5 +1,5 @@
 # mnist
-
+This project is for learning purposes 
 ## Getting Started
 ### Prerequisites
 Note: Make sure to have python3 installed 
